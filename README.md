@@ -53,3 +53,7 @@ jupyter notebook
 ## License
 
 This project is provided for educational purposes only. Feel free to use and adapt the code for your own learning or research.
+
+## Additional Notes
+
+This repository includes a **synthetic dataset** and an **analysis notebook** for demonstration purposes. The synthetic data allows you to experiment without relying on sensitive real‑world information, while the notebook walks through exploratory data analysis and a simple linear regression model. Feel free to explore the notebook and extend the analysis by adding new models, feature engineering, or visualizations.
